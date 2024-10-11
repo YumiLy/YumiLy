@@ -3,7 +3,7 @@
 ### 🌐 About Me:
 - 🎓 M.S. in Artificial Intelligence at Université Paris-Saclay
 - 🎓 B.S. in Information and Computing Science (more close to Computational Science) at Nanjing University of Information, Science & Technology (NUIST)
-- 📚 Passionate about Natural Language Processing and Machine Learning
+- 📚 Passionate about Natural Language Processing and Machine Learning, looking for M2 Intern now 👀
 
 ### 💼 Experience:
 - **Machine Learning Intern** at Laboratoire interdisciplinaire des sciences du numérique (May 2024 - Jul 2024)
@@ -18,9 +18,7 @@
 - NLP Tools: Hugging Face Transformers, NLTK, OpenNMT
 - Languages: Chinese (native), English (fluent), Korean (intermediate), French (novice)
 
-### 📫 Connect with Me:
-- [GitHub](https://github.com/YumiLy)
-- [LinkedIn](https://www.linkedin.com/in/yinglai-ai)
+
 
 <!--
 **YumiLy/YumiLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 📫 Connect with Me:
+- [GitHub](https://github.com/YumiLy)
+- [LinkedIn](https://www.linkedin.com/in/yinglai-ai)
 -->

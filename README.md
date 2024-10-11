@@ -3,7 +3,8 @@
 ### 🌐 About Me:
 - 🎓 M.S. in Artificial Intelligence at Université Paris-Saclay
 - 🎓 B.S. in Information and Computing Science (more close to Computational Science) at Nanjing University of Information, Science & Technology (NUIST)
-- 📚 Passionate about Natural Language Processing and Machine Learning, looking for M2 Internship now 👀
+- 📚 Passionate about Natural Language Processing and Machine Learning
+- 🔍 I’m actively looking for internship opportunities to apply my skills and gain more practical experience in NLP, AI, and machine learning. Feel free to reach out!
 
 ### 💼 Experience:
 - **Machine Learning Intern** at Laboratoire interdisciplinaire des sciences du numérique (May 2024 - Jul 2024)

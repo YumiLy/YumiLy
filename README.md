@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## I'm Ying Lai 👋
+## Hi there, I'm Ying Lai 👋
 
 ### 🌐 About Me:
 - 🎓 M.S. in Artificial Intelligence at Université Paris-Saclay
